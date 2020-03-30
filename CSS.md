@@ -20,3 +20,11 @@ some-element(Selector) {
 }
 
 (só uma modificação)
+
+ # The CSS Box Model
+ - Each element  in an HTML document can be thought of as a rectangular box
+ - The standard box model describes the space an element takes up
+ - Each box has for edges: margin, border, padding, content edges
+ (aquela caixinha que mostra as bordas em caixinhas quandi inspeciona a página)
+
+(algo mais)
