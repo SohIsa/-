@@ -27,5 +27,8 @@ some-element(Selector) {
  - Each box has for edges: margin, border, padding, content edges
  (aquela caixinha que mostra as bordas em caixinhas quandi inspeciona a página)
 
-(algo mais)
-outra coisa
+ # CSS Specificity
+ - Specificity is super important whi CSS
+  0. Type selectors (e.g. h1, div, header, p). The least
+  1. Class selectors (e.g. .exemple-class)
+  2. ID selector (e.g. #exemple). Most specificity
