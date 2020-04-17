@@ -1,0 +1,19 @@
+#celular{
+    float: left;
+    width: 350px;
+}
+div{
+    text-align: right;
+}
+#Apple{
+    width: 150px;
+}
+#Google{
+    width: 150px;
+}
+ul{
+    list-style: none;
+}
+footer > ul{
+    display: inline-block;
+}
